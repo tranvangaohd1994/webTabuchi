@@ -1,0 +1,10 @@
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Entity\bin\Release\Entity.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Entity\bin\Release\Entity.pdb
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Entity\obj\Release\Entity.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Entity\obj\Release\Entity.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Entity\bin\Release\Entity.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Entity\bin\Release\Entity.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Entity\obj\Release\Entity.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Entity\obj\Release\Entity.pdb

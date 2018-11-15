@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Lab_BaoChay\ServerTabuchi\web20181114</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddNewModel.aspx">
+      <publishTime>08/04/2017 22:14:22</publishTime>
+    </File>
+    <File Include="AddNewPlan.aspx">
+      <publishTime>08/04/2017 22:14:00</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>08/06/2015 18:54:30</publishTime>
+    </File>
+    <File Include="bin/BLL.dll">
+      <publishTime>11/07/2018 23:55:28</publishTime>
+    </File>
+    <File Include="bin/BLL.pdb">
+      <publishTime>07/16/2017 16:47:25</publishTime>
+    </File>
+    <File Include="bin/Common.dll">
+      <publishTime>11/07/2018 23:55:27</publishTime>
+    </File>
+    <File Include="bin/Common.pdb">
+      <publishTime>07/16/2017 16:47:24</publishTime>
+    </File>
+    <File Include="bin/DLL.dll">
+      <publishTime>11/07/2018 23:55:28</publishTime>
+    </File>
+    <File Include="bin/DLL.pdb">
+      <publishTime>07/16/2017 16:47:25</publishTime>
+    </File>
+    <File Include="bin/Entity.dll">
+      <publishTime>11/07/2018 23:55:27</publishTime>
+    </File>
+    <File Include="bin/Entity.pdb">
+      <publishTime>07/16/2017 16:47:24</publishTime>
+    </File>
+    <File Include="bin/Website.dll">
+      <publishTime>11/14/2018 23:33:59</publishTime>
+    </File>
+    <File Include="bin/Website.pdb">
+      <publishTime>07/31/2017 23:09:45</publishTime>
+    </File>
+    <File Include="ChangeActualInputDay.aspx">
+      <publishTime>07/31/2017 23:08:36</publishTime>
+    </File>
+    <File Include="ChangeActualInputNight.aspx">
+      <publishTime>07/31/2017 23:08:41</publishTime>
+    </File>
+    <File Include="ChangePassword.aspx">
+      <publishTime>08/17/2015 12:46:14</publishTime>
+    </File>
+    <File Include="css/reset.css">
+      <publishTime>10/07/2015 17:12:44</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>10/08/2015 17:49:10</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/06/2017 22:26:20</publishTime>
+    </File>
+    <File Include="History.aspx">
+      <publishTime>08/06/2017 20:48:03</publishTime>
+    </File>
+    <File Include="image/1435843633_save.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/1435843678_refresh.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/1437698011_ic_delete_48px.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/1437698170_refresh.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/1438086921_129_ArrowRight.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/addnewModel.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/back.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/btnsaveInputForm.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/btnSaveModel.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/calendar.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/change_pass.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/choose.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/delete.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/loading.gif.gif">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/logo.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/logout.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/logout2.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="image/pointModel.png">
+      <publishTime>08/06/2015 20:17:38</publishTime>
+    </File>
+    <File Include="Index.aspx">
+      <publishTime>08/17/2015 14:00:12</publishTime>
+    </File>
+    <File Include="InputForm.aspx">
+      <publishTime>08/06/2017 20:57:56</publishTime>
+    </File>
+    <File Include="InputFormNight.aspx">
+      <publishTime>08/06/2017 20:58:22</publishTime>
+    </File>
+    <File Include="js/gridviewScroll.js">
+      <publishTime>07/16/2017 18:24:29</publishTime>
+    </File>
+    <File Include="js/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/images/ui-icons_222222_256x240.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/images/ui-icons_454545_256x240.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/images/ui-icons_888888_256x240.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>08/06/2017 20:46:02</publishTime>
+    </File>
+    <File Include="js/index.js">
+      <publishTime>08/10/2015 09:09:52</publishTime>
+    </File>
+    <File Include="js/jquery-1.10.2.js">
+      <publishTime>07/31/2017 23:07:21</publishTime>
+    </File>
+    <File Include="js/jquery-1.7.1.js">
+      <publishTime>08/10/2015 09:09:52</publishTime>
+    </File>
+    <File Include="js/jquery-1.7.1.min.js">
+      <publishTime>08/10/2015 09:09:52</publishTime>
+    </File>
+    <File Include="js/jquery-ui.css">
+      <publishTime>07/31/2017 23:07:21</publishTime>
+    </File>
+    <File Include="js/jquery-ui.js">
+      <publishTime>07/31/2017 23:07:21</publishTime>
+    </File>
+    <File Include="js/jquery-ui.min.js">
+      <publishTime>07/31/2017 23:03:39</publishTime>
+    </File>
+    <File Include="js/jquery.min.js">
+      <publishTime>07/31/2017 23:03:39</publishTime>
+    </File>
+    <File Include="js/ScrollableGridWithTwoHeader.js">
+      <publishTime>07/16/2017 10:28:19</publishTime>
+    </File>
+    <File Include="layout/index.html">
+      <publishTime>08/06/2015 17:08:02</publishTime>
+    </File>
+    <File Include="layout/styles/forms.css">
+      <publishTime>08/06/2015 17:08:02</publishTime>
+    </File>
+    <File Include="layout/styles/gridviewScroll.css">
+      <publishTime>07/16/2017 13:11:00</publishTime>
+    </File>
+    <File Include="layout/styles/images/black_file.gif">
+      <publishTime>08/06/2015 17:08:02</publishTime>
+    </File>
+    <File Include="layout/styles/images/blue_file.gif">
+      <publishTime>08/06/2015 17:08:02</publishTime>
+    </File>
+    <File Include="layout/styles/images/index.html">
+      <publishTime>08/06/2015 17:08:02</publishTime>
+    </File>
+    <File Include="layout/styles/index.html">
+      <publishTime>08/06/2015 17:08:02</publishTime>
+    </File>
+    <File Include="layout/styles/layout.css">
+      <publishTime>07/27/2017 15:52:57</publishTime>
+    </File>
+    <File Include="layout/styles/navi.css">
+      <publishTime>07/16/2017 20:43:29</publishTime>
+    </File>
+    <File Include="layout/styles/tables.css">
+      <publishTime>07/08/2017 10:59:12</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>08/12/2015 10:22:16</publishTime>
+    </File>
+    <File Include="Master Page/Site1.Master">
+      <publishTime>10/06/2015 19:04:36</publishTime>
+    </File>
+    <File Include="OutputNight.aspx">
+      <publishTime>08/04/2017 22:04:45</publishTime>
+    </File>
+    <File Include="readme.txt">
+      <publishTime>11/14/2018 23:24:24</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/07/2018 23:55:31</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>08/19/2015 11:05:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

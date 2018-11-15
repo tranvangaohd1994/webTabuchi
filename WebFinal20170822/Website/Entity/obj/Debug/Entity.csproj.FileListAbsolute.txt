@@ -1,0 +1,42 @@
+C:\Users\D\documents\visual studio 2012\Projects\Website\Entity\bin\Debug\Entity.dll
+C:\Users\D\documents\visual studio 2012\Projects\Website\Entity\bin\Debug\Entity.pdb
+C:\Users\D\documents\visual studio 2012\Projects\Website\Entity\obj\Debug\Entity.dll
+C:\Users\D\documents\visual studio 2012\Projects\Website\Entity\obj\Debug\Entity.pdb
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\teset\Website\Entity\bin\Debug\Entity.dll
+F:\teset\Website\Entity\bin\Debug\Entity.pdb
+F:\teset\Website\Entity\obj\Debug\Entity.dll
+F:\teset\Website\Entity\obj\Debug\Entity.pdb
+E:\Tabuchi\14.9.2015\Website\Entity\bin\Debug\Entity.dll
+E:\Tabuchi\14.9.2015\Website\Entity\bin\Debug\Entity.pdb
+E:\Tabuchi\14.9.2015\Website\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Tabuchi\14.9.2015\Website\Entity\obj\Debug\Entity.dll
+E:\Tabuchi\14.9.2015\Website\Entity\obj\Debug\Entity.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Entity\bin\Debug\Entity.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Entity\bin\Debug\Entity.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Entity\obj\Debug\Entity.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Entity\obj\Debug\Entity.pdb
+D:\Project Tabuchi\27_10_2015\Website\Entity\bin\Debug\Entity.dll
+D:\Project Tabuchi\27_10_2015\Website\Entity\bin\Debug\Entity.pdb
+D:\Project Tabuchi\27_10_2015\Website\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Project Tabuchi\27_10_2015\Website\Entity\obj\Debug\Entity.dll
+D:\Project Tabuchi\27_10_2015\Website\Entity\obj\Debug\Entity.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Entity\bin\Debug\Entity.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Entity\bin\Debug\Entity.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Entity\obj\Debug\Entity.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Entity\obj\Debug\Entity.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Entity\bin\Debug\Entity.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Entity\bin\Debug\Entity.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Entity\obj\Debug\Entity.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Entity\obj\Debug\Entity.pdb
+C:\Projects\WebFinal20170524\Website\Entity\bin\Debug\Entity.dll
+C:\Projects\WebFinal20170524\Website\Entity\bin\Debug\Entity.pdb
+C:\Projects\WebFinal20170524\Website\Entity\obj\Debug\Entity.dll
+C:\Projects\WebFinal20170524\Website\Entity\obj\Debug\Entity.pdb
+C:\Projects\WebFinal20170806\Website\Entity\bin\Debug\Entity.dll
+C:\Projects\WebFinal20170806\Website\Entity\bin\Debug\Entity.pdb
+C:\Projects\WebFinal20170806\Website\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Projects\WebFinal20170806\Website\Entity\obj\Debug\Entity.dll
+C:\Projects\WebFinal20170806\Website\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,161 @@
+C:\Users\D\documents\visual studio 2012\Projects\Website\BLL\bin\Debug\BLL.dll
+C:\Users\D\documents\visual studio 2012\Projects\Website\BLL\bin\Debug\BLL.pdb
+C:\Users\D\documents\visual studio 2012\Projects\Website\BLL\bin\Debug\DLL.dll
+C:\Users\D\documents\visual studio 2012\Projects\Website\BLL\bin\Debug\Entity.dll
+C:\Users\D\documents\visual studio 2012\Projects\Website\BLL\bin\Debug\DLL.pdb
+C:\Users\D\documents\visual studio 2012\Projects\Website\BLL\bin\Debug\Entity.pdb
+C:\Users\D\documents\visual studio 2012\Projects\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\D\documents\visual studio 2012\Projects\Website\BLL\obj\Debug\BLL.dll
+C:\Users\D\documents\visual studio 2012\Projects\Website\BLL\obj\Debug\BLL.pdb
+C:\Users\D\Desktop\Website\BLL\bin\Debug\BLL.dll
+C:\Users\D\Desktop\Website\BLL\bin\Debug\BLL.pdb
+C:\Users\D\Desktop\Website\BLL\bin\Debug\DLL.dll
+C:\Users\D\Desktop\Website\BLL\bin\Debug\Entity.dll
+C:\Users\D\Desktop\Website\BLL\bin\Debug\DLL.pdb
+C:\Users\D\Desktop\Website\BLL\bin\Debug\Entity.pdb
+C:\Users\D\Desktop\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\D\Desktop\Website\BLL\obj\Debug\BLL.dll
+C:\Users\D\Desktop\Website\BLL\obj\Debug\BLL.pdb
+F:\teset\Website\BLL\bin\Debug\BLL.dll
+F:\teset\Website\BLL\bin\Debug\BLL.pdb
+F:\teset\Website\BLL\bin\Debug\DLL.dll
+F:\teset\Website\BLL\bin\Debug\Entity.dll
+F:\teset\Website\BLL\bin\Debug\DLL.pdb
+F:\teset\Website\BLL\bin\Debug\Entity.pdb
+F:\teset\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\teset\Website\BLL\obj\Debug\BLL.dll
+F:\teset\Website\BLL\obj\Debug\BLL.pdb
+F:\teset\Website\BLL\bin\Debug\Common.dll
+F:\teset\Website\BLL\bin\Debug\Common.pdb
+E:\Tabuchi\14.9.2015\Website\BLL\bin\Debug\BLL.dll
+E:\Tabuchi\14.9.2015\Website\BLL\bin\Debug\BLL.pdb
+E:\Tabuchi\14.9.2015\Website\BLL\bin\Debug\DLL.dll
+E:\Tabuchi\14.9.2015\Website\BLL\bin\Debug\Entity.dll
+E:\Tabuchi\14.9.2015\Website\BLL\bin\Debug\Common.dll
+E:\Tabuchi\14.9.2015\Website\BLL\bin\Debug\DLL.pdb
+E:\Tabuchi\14.9.2015\Website\BLL\bin\Debug\Entity.pdb
+E:\Tabuchi\14.9.2015\Website\BLL\bin\Debug\Common.pdb
+E:\Tabuchi\14.9.2015\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Tabuchi\14.9.2015\Website\BLL\obj\Debug\BLL.dll
+E:\Tabuchi\14.9.2015\Website\BLL\obj\Debug\BLL.pdb
+C:\Users\D\Desktop\Website\Website\BLL\bin\Debug\BLL.dll
+C:\Users\D\Desktop\Website\Website\BLL\bin\Debug\BLL.pdb
+C:\Users\D\Desktop\Website\Website\BLL\bin\Debug\Entity.dll
+C:\Users\D\Desktop\Website\Website\BLL\bin\Debug\Entity.pdb
+C:\Users\D\Desktop\Website\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\D\Desktop\Website\Website\BLL\obj\Debug\BLL.dll
+C:\Users\D\Desktop\Website\Website\BLL\obj\Debug\BLL.pdb
+C:\Users\D\Desktop\Website\Website\BLL\bin\Debug\DLL.dll
+C:\Users\D\Desktop\Website\Website\BLL\bin\Debug\Common.dll
+C:\Users\D\Desktop\Website\Website\BLL\bin\Debug\DLL.pdb
+C:\Users\D\Desktop\Website\Website\BLL\bin\Debug\Common.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\BLL\bin\Debug\BLL.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\BLL\bin\Debug\BLL.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\BLL\bin\Debug\DLL.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\BLL\bin\Debug\Entity.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\BLL\bin\Debug\Common.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\BLL\bin\Debug\DLL.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\BLL\bin\Debug\Entity.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\BLL\bin\Debug\Common.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\BLL\obj\Debug\BLL.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\BLL\obj\Debug\BLL.pdb
+E:\MAIN PROJECT\Tabuchi\23092015\Website\BLL\bin\Debug\BLL.dll
+E:\MAIN PROJECT\Tabuchi\23092015\Website\BLL\bin\Debug\BLL.pdb
+E:\MAIN PROJECT\Tabuchi\23092015\Website\BLL\bin\Debug\DLL.dll
+E:\MAIN PROJECT\Tabuchi\23092015\Website\BLL\bin\Debug\Entity.dll
+E:\MAIN PROJECT\Tabuchi\23092015\Website\BLL\bin\Debug\Common.dll
+E:\MAIN PROJECT\Tabuchi\23092015\Website\BLL\bin\Debug\DLL.pdb
+E:\MAIN PROJECT\Tabuchi\23092015\Website\BLL\bin\Debug\Entity.pdb
+E:\MAIN PROJECT\Tabuchi\23092015\Website\BLL\bin\Debug\Common.pdb
+E:\MAIN PROJECT\Tabuchi\23092015\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\MAIN PROJECT\Tabuchi\23092015\Website\BLL\obj\Debug\BLL.dll
+E:\MAIN PROJECT\Tabuchi\23092015\Website\BLL\obj\Debug\BLL.pdb
+D:\Project Tabuchi\27_10_2015\Website\BLL\bin\Debug\BLL.dll
+D:\Project Tabuchi\27_10_2015\Website\BLL\bin\Debug\BLL.pdb
+D:\Project Tabuchi\27_10_2015\Website\BLL\bin\Debug\DLL.dll
+D:\Project Tabuchi\27_10_2015\Website\BLL\bin\Debug\Entity.dll
+D:\Project Tabuchi\27_10_2015\Website\BLL\bin\Debug\Common.dll
+D:\Project Tabuchi\27_10_2015\Website\BLL\bin\Debug\DLL.pdb
+D:\Project Tabuchi\27_10_2015\Website\BLL\bin\Debug\Entity.pdb
+D:\Project Tabuchi\27_10_2015\Website\BLL\bin\Debug\Common.pdb
+D:\Project Tabuchi\27_10_2015\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Project Tabuchi\27_10_2015\Website\BLL\obj\Debug\BLL.dll
+D:\Project Tabuchi\27_10_2015\Website\BLL\obj\Debug\BLL.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\BLL\bin\Debug\BLL.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\BLL\bin\Debug\BLL.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\BLL\bin\Debug\DLL.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\BLL\bin\Debug\Entity.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\BLL\bin\Debug\Common.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\BLL\bin\Debug\DLL.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\BLL\bin\Debug\Entity.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\BLL\bin\Debug\Common.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\BLL\obj\Debug\BLL.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\BLL\obj\Debug\BLL.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\BLL\bin\Debug\BLL.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\BLL\bin\Debug\BLL.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\BLL\bin\Debug\DLL.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\BLL\bin\Debug\Entity.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\BLL\bin\Debug\Common.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\BLL\bin\Debug\DLL.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\BLL\bin\Debug\Entity.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\BLL\bin\Debug\Common.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\BLL\obj\Debug\BLL.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\BLL\obj\Debug\BLL.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\BLL\bin\Debug\BLL.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\BLL\bin\Debug\BLL.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\BLL\bin\Debug\DLL.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\BLL\bin\Debug\Entity.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\BLL\bin\Debug\Common.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\BLL\bin\Debug\DLL.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\BLL\bin\Debug\Entity.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\BLL\bin\Debug\Common.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\BLL\obj\Debug\BLL.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\BLL\obj\Debug\BLL.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\BLL\bin\Debug\BLL.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\BLL\bin\Debug\BLL.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\BLL\bin\Debug\DLL.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\BLL\bin\Debug\Entity.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\BLL\bin\Debug\Common.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\BLL\bin\Debug\DLL.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\BLL\bin\Debug\Entity.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\BLL\bin\Debug\Common.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\BLL\obj\Debug\BLL.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\BLL\obj\Debug\BLL.pdb
+C:\Projects\WebFinal20170524\Website\BLL\bin\Debug\BLL.dll
+C:\Projects\WebFinal20170524\Website\BLL\bin\Debug\BLL.pdb
+C:\Projects\WebFinal20170524\Website\BLL\bin\Debug\DLL.dll
+C:\Projects\WebFinal20170524\Website\BLL\bin\Debug\Entity.dll
+C:\Projects\WebFinal20170524\Website\BLL\bin\Debug\Common.dll
+C:\Projects\WebFinal20170524\Website\BLL\bin\Debug\DLL.pdb
+C:\Projects\WebFinal20170524\Website\BLL\bin\Debug\Entity.pdb
+C:\Projects\WebFinal20170524\Website\BLL\bin\Debug\Common.pdb
+C:\Projects\WebFinal20170524\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Projects\WebFinal20170524\Website\BLL\obj\Debug\BLL.dll
+C:\Projects\WebFinal20170524\Website\BLL\obj\Debug\BLL.pdb
+C:\Projects\WebFinal20170806\Website\BLL\bin\Debug\BLL.dll
+C:\Projects\WebFinal20170806\Website\BLL\bin\Debug\BLL.pdb
+C:\Projects\WebFinal20170806\Website\BLL\bin\Debug\DLL.dll
+C:\Projects\WebFinal20170806\Website\BLL\bin\Debug\Entity.dll
+C:\Projects\WebFinal20170806\Website\BLL\bin\Debug\Common.dll
+C:\Projects\WebFinal20170806\Website\BLL\bin\Debug\DLL.pdb
+C:\Projects\WebFinal20170806\Website\BLL\bin\Debug\Entity.pdb
+C:\Projects\WebFinal20170806\Website\BLL\bin\Debug\Common.pdb
+C:\Projects\WebFinal20170806\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Projects\WebFinal20170806\Website\BLL\obj\Debug\BLL.dll
+C:\Projects\WebFinal20170806\Website\BLL\obj\Debug\BLL.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\BLL\bin\Debug\BLL.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\BLL\bin\Debug\BLL.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\BLL\bin\Debug\DLL.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\BLL\bin\Debug\Entity.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\BLL\bin\Debug\Common.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\BLL\bin\Debug\DLL.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\BLL\bin\Debug\Entity.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\BLL\bin\Debug\Common.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\BLL\obj\Debug\BLL.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\BLL\obj\Debug\BLL.pdb

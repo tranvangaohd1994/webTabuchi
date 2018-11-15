@@ -1,0 +1,88 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Website.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <link rel="stylesheet" href="../layout/styles/layout.css" type="text/css" />
+    <title>Input form day </title>
+    <script type="text/javascript">
+
+        function time() {
+            var today = new Date();
+            var weekday = new Array(7);
+            weekday[0] = "Sunday";
+            weekday[1] = "Monday";
+            weekday[2] = "Tuesday";
+            weekday[3] = "Wednesday";
+            weekday[4] = "Thursday";
+            weekday[5] = "Friday";
+            weekday[6] = "Saturday";
+            var day = weekday[today.getDay()];
+            var dd = today.getDate();
+            var mm = today.getMonth() + 1; //January is 0!
+            var yyyy = today.getFullYear();
+            var h = today.getHours();
+            var m = today.getMinutes();
+            var s = today.getSeconds();
+            m = checkTime(m);
+            s = checkTime(s);
+            nowTime = h + ":" + m + ":" + s;
+            if (dd < 10) { dd = '0' + dd } if (mm < 10) { mm = '0' + mm } today = day + ', ' + dd + '/' + mm + '/' + yyyy;
+
+            tmp = '<span class="date">' + today + ' | ' + nowTime + '</span>';
+
+            document.getElementById("clock").innerHTML = tmp;
+
+            clocktime = setTimeout("time()", "1000", "JavaScript");
+            function checkTime(i) {
+                if (i < 10) {
+                    i = "0" + i;
+                }
+                return i;
+            }
+        }
+    </script>
+    <asp:ContentPlaceHolder runat="server" ID="pnlHead">
+    </asp:ContentPlaceHolder>
+</head>
+<body onload="time()" style="background-color: white">
+    <form id="form1" runat="server">
+        <div class="wrapper col2">
+            <div id="topbar">
+                <div id="topnav">
+                    <ul>
+                        <li>
+                            <asp:LinkButton runat="server" ID="lbtInputForm" Width="70px" OnClick="lbtInputForm_Click" CausesValidation="false" ToolTip="Back to Input Page" >Input   Page</asp:LinkButton></li>
+                        <li>
+                            <asp:LinkButton runat="server" ID="lblControl" Width="70px" >Control</asp:LinkButton>
+                            <ul>
+                                <li><a href="AddNewModel.aspx">Add Item</a></li>
+                                <li><a href="ChangePassword.aspx">Change password</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div id="search">
+                    <fieldset>
+                        <legend>Date Time</legend>
+                        <div id="clock" style="margin-top: 10px"></div>
+                    </fieldset>
+
+                </div>
+                <br class="clear" />
+            </div>
+        </div>
+        <div class="wrapper col5" style="margin-top: 0px">
+            <div id="container" style="margin-left: 20px; margin-top: 0px;">
+                <div id="content" style="width: 1200px; margin-left: 20px; margin-top: 0px">
+                    <asp:ContentPlaceHolder runat="server" ID="pnlContent">
+
+                    </asp:ContentPlaceHolder>
+                    <h2 style="margin-left: 200px; width: 600px"></h2>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

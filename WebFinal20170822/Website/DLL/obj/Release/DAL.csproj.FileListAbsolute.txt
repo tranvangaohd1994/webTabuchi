@@ -1,0 +1,17 @@
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\DLL\bin\Release\DLL.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\DLL\bin\Release\DLL.pdb
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\DLL\bin\Release\Entity.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\DLL\bin\Release\Entity.pdb
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\DLL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\DLL\obj\Release\DLL.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\DLL\obj\Release\DLL.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\DLL\bin\Release\DLL.dll.config
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\DLL\bin\Release\DLL.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\DLL\bin\Release\DLL.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\DLL\bin\Release\Common.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\DLL\bin\Release\Entity.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\DLL\bin\Release\Common.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\DLL\bin\Release\Entity.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\DLL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\DLL\obj\Release\DLL.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\DLL\obj\Release\DLL.pdb

@@ -1,0 +1,27 @@
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\bin\Website.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\bin\Website.pdb
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\bin\BLL.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\bin\Common.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\bin\DLL.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\bin\Entity.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\bin\BLL.pdb
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\bin\Common.pdb
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\bin\DLL.pdb
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\bin\Entity.pdb
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\obj\Release\Website.csprojResolveAssemblyReference.cache
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\obj\Release\Website.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Website\obj\Release\Website.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Website.dll.config
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Website.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Website.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\BLL.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Common.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\DLL.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Entity.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\BLL.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Common.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\DLL.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Entity.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\obj\Release\Website.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\obj\Release\Website.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\obj\Release\Website.pdb

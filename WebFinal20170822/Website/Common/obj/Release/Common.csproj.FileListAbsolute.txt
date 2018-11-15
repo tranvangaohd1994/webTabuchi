@@ -1,0 +1,10 @@
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Common\bin\Release\Common.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Common\bin\Release\Common.pdb
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Common\obj\Release\Common.dll
+C:\Users\D\Documents\Visual Studio 2012\Projects\Website\Common\obj\Release\Common.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Common\bin\Release\Common.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Common\bin\Release\Common.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Common\obj\Release\Common.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Common\obj\Release\Common.pdb

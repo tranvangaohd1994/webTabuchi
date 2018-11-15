@@ -1,0 +1,299 @@
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\bin\Website.dll
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\bin\Website.pdb
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\bin\BLL.dll
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\bin\Common.dll
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\bin\DLL.dll
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\bin\Entity.dll
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\bin\BLL.pdb
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\bin\Common.pdb
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\bin\DLL.pdb
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\bin\Entity.pdb
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\obj\Debug\Website.dll
+C:\Users\D\documents\visual studio 2012\Projects\Website\Website\obj\Debug\Website.pdb
+C:\Users\D\Desktop\Website\Website\bin\Website.dll
+C:\Users\D\Desktop\Website\Website\bin\Website.pdb
+C:\Users\D\Desktop\Website\Website\bin\BLL.dll
+C:\Users\D\Desktop\Website\Website\bin\Common.dll
+C:\Users\D\Desktop\Website\Website\bin\DLL.dll
+C:\Users\D\Desktop\Website\Website\bin\Entity.dll
+C:\Users\D\Desktop\Website\Website\bin\BLL.pdb
+C:\Users\D\Desktop\Website\Website\bin\Common.pdb
+C:\Users\D\Desktop\Website\Website\bin\DLL.pdb
+C:\Users\D\Desktop\Website\Website\bin\Entity.pdb
+C:\Users\D\Desktop\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\D\Desktop\Website\Website\obj\Debug\Website.dll
+C:\Users\D\Desktop\Website\Website\obj\Debug\Website.pdb
+F:\teset\Website\Website\bin\Website.dll
+F:\teset\Website\Website\bin\Website.pdb
+F:\teset\Website\Website\bin\BLL.dll
+F:\teset\Website\Website\bin\Common.dll
+F:\teset\Website\Website\bin\DLL.dll
+F:\teset\Website\Website\bin\Entity.dll
+F:\teset\Website\Website\bin\BLL.pdb
+F:\teset\Website\Website\bin\Common.pdb
+F:\teset\Website\Website\bin\DLL.pdb
+F:\teset\Website\Website\bin\Entity.pdb
+F:\teset\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+F:\teset\Website\Website\obj\Debug\Website.dll
+F:\teset\Website\Website\obj\Debug\Website.pdb
+E:\Tabuchi\14.9.2015\Website\Website\bin\Website.dll
+E:\Tabuchi\14.9.2015\Website\Website\bin\Website.pdb
+E:\Tabuchi\14.9.2015\Website\Website\bin\BLL.dll
+E:\Tabuchi\14.9.2015\Website\Website\bin\Common.dll
+E:\Tabuchi\14.9.2015\Website\Website\bin\DLL.dll
+E:\Tabuchi\14.9.2015\Website\Website\bin\Entity.dll
+E:\Tabuchi\14.9.2015\Website\Website\bin\BLL.pdb
+E:\Tabuchi\14.9.2015\Website\Website\bin\Common.pdb
+E:\Tabuchi\14.9.2015\Website\Website\bin\DLL.pdb
+E:\Tabuchi\14.9.2015\Website\Website\bin\Entity.pdb
+E:\Tabuchi\14.9.2015\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+E:\Tabuchi\14.9.2015\Website\Website\obj\Debug\Website.dll
+E:\Tabuchi\14.9.2015\Website\Website\obj\Debug\Website.pdb
+C:\Users\D\Desktop\Website\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\D\Desktop\Website\Website\Website\obj\Debug\Website.dll
+C:\Users\D\Desktop\Website\Website\Website\bin\Website.dll
+C:\Users\D\Desktop\Website\Website\Website\bin\Website.pdb
+C:\Users\D\Desktop\Website\Website\Website\bin\BLL.dll
+C:\Users\D\Desktop\Website\Website\Website\bin\Common.dll
+C:\Users\D\Desktop\Website\Website\Website\bin\DLL.dll
+C:\Users\D\Desktop\Website\Website\Website\bin\Entity.dll
+C:\Users\D\Desktop\Website\Website\Website\bin\BLL.pdb
+C:\Users\D\Desktop\Website\Website\Website\bin\Common.pdb
+C:\Users\D\Desktop\Website\Website\Website\bin\DLL.pdb
+C:\Users\D\Desktop\Website\Website\Website\bin\Entity.pdb
+C:\Users\D\Desktop\Website\Website\Website\obj\Debug\Website.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\bin\Website.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\bin\Website.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\bin\BLL.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\bin\Common.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\bin\DLL.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\bin\Entity.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\bin\BLL.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\bin\Common.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\bin\DLL.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\bin\Entity.pdb
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\obj\Debug\Website.dll
+E:\MAIN PROJECT\Tabuchi\23.09.2015\Website\Website\Website\obj\Debug\Website.pdb
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\bin\Website.dll
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\bin\Website.pdb
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\bin\BLL.dll
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\bin\Common.dll
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\bin\DLL.dll
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\bin\Entity.dll
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\bin\BLL.pdb
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\bin\Common.pdb
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\bin\DLL.pdb
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\bin\Entity.pdb
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\obj\Debug\Website.dll
+E:\MAIN PROJECT\Tabuchi\23092015\Website\Website\obj\Debug\Website.pdb
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\bin\Website.dll
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\bin\Website.pdb
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\bin\BLL.dll
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\bin\Common.dll
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\bin\DLL.dll
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\bin\Entity.dll
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\bin\BLL.pdb
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\bin\Common.pdb
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\bin\DLL.pdb
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\bin\Entity.pdb
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\obj\Debug\Website.dll
+E:\MAIN PROJECT\Tabuchi\25092015\Website\Website\obj\Debug\Website.pdb
+E:\MAIN PROJECT\Tabuchi\07102015\Website\Website\bin\Website.dll
+E:\MAIN PROJECT\Tabuchi\07102015\Website\Website\bin\Website.pdb
+E:\MAIN PROJECT\Tabuchi\07102015\Website\Website\bin\BLL.dll
+E:\MAIN PROJECT\Tabuchi\07102015\Website\Website\bin\Common.dll
+E:\MAIN PROJECT\Tabuchi\07102015\Website\Website\bin\DLL.dll
+E:\MAIN PROJECT\Tabuchi\07102015\Website\Website\bin\Entity.dll
+E:\MAIN PROJECT\Tabuchi\07102015\Website\Website\bin\BLL.pdb
+E:\MAIN PROJECT\Tabuchi\07102015\Website\Website\bin\Common.pdb
+E:\MAIN PROJECT\Tabuchi\07102015\Website\Website\bin\DLL.pdb
+E:\MAIN PROJECT\Tabuchi\07102015\Website\Website\bin\Entity.pdb
+E:\MAIN PROJECT\Tabuchi\07102015\Website\Website\obj\Debug\Website.dll
+E:\MAIN PROJECT\Tabuchi\07102015\Website\Website\obj\Debug\Website.pdb
+D:\Project Tabuchi\27_10_2015\Website\Website\bin\Website.dll
+D:\Project Tabuchi\27_10_2015\Website\Website\bin\Website.pdb
+D:\Project Tabuchi\27_10_2015\Website\Website\bin\BLL.dll
+D:\Project Tabuchi\27_10_2015\Website\Website\bin\Common.dll
+D:\Project Tabuchi\27_10_2015\Website\Website\bin\DLL.dll
+D:\Project Tabuchi\27_10_2015\Website\Website\bin\Entity.dll
+D:\Project Tabuchi\27_10_2015\Website\Website\bin\BLL.pdb
+D:\Project Tabuchi\27_10_2015\Website\Website\bin\Common.pdb
+D:\Project Tabuchi\27_10_2015\Website\Website\bin\DLL.pdb
+D:\Project Tabuchi\27_10_2015\Website\Website\bin\Entity.pdb
+D:\Project Tabuchi\27_10_2015\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Project Tabuchi\27_10_2015\Website\Website\obj\Debug\Website.dll
+D:\Project Tabuchi\27_10_2015\Website\Website\obj\Debug\Website.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\bin\Website.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\bin\Website.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\bin\BLL.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\bin\Common.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\bin\DLL.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\bin\Entity.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\bin\BLL.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\bin\Common.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\bin\DLL.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\bin\Entity.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\obj\Debug\Website.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\Website\Website\obj\Debug\Website.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\bin\Website.dll
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\bin\Website.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\bin\BLL.dll
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\bin\Common.dll
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\bin\DLL.dll
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\bin\Entity.dll
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\bin\BLL.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\bin\Common.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\bin\DLL.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\bin\Entity.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\obj\Debug\Website.dll
+C:\Users\GaoTran\Dropbox\tabuchi\Website\Website\obj\Debug\Website.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\bin\Website.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\bin\Website.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\bin\BLL.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\bin\Common.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\bin\DLL.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\bin\Entity.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\bin\BLL.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\bin\Common.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\bin\DLL.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\bin\Entity.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\obj\Debug\Website.dll
+D:\Lab_BaoChay\Tabuchi24_4_2016\5-5-2016Web\Website\Website\obj\Debug\Website.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\bin\Website.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\bin\Website.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\bin\BLL.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\bin\Common.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\bin\DLL.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\bin\Entity.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\bin\BLL.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\bin\Common.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\bin\DLL.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\bin\Entity.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\obj\Debug\Website.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\SourceCode\WebFinal20160505\Website\Website\obj\Debug\Website.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\bin\Website.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\bin\Website.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\bin\BLL.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\bin\Common.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\bin\DLL.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\bin\Entity.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\bin\BLL.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\bin\Common.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\bin\DLL.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\bin\Entity.pdb
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\obj\Debug\Website.dll
+D:\Lab_BaoChay\Tabuchi20160910\Tabuchi20160910\WebFinal20170211\Website\Website\obj\Debug\Website.pdb
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\bin\Website.dll
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\bin\Website.pdb
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\bin\BLL.dll
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\bin\Common.dll
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\bin\DLL.dll
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\bin\Entity.dll
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\bin\BLL.pdb
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\bin\Common.pdb
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\bin\DLL.pdb
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\bin\Entity.pdb
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\obj\Debug\Website.dll
+D:\Lab_BaoChay\Project_ Pack\2.Implementation_Code\WebFinal20170214\Website\Website\obj\Debug\Website.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\bin\Website.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\bin\Website.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\bin\BLL.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\bin\Common.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\bin\DLL.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\bin\Entity.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\bin\BLL.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\bin\Common.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\bin\DLL.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\bin\Entity.pdb
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\obj\Debug\Website.dll
+E:\tabuchi\ban code moi nhat\WebFinal20170214\Website\Website\obj\Debug\Website.pdb
+C:\Projects\WebFinal20170524\Website\Website\bin\Website.dll
+C:\Projects\WebFinal20170524\Website\Website\bin\Website.pdb
+C:\Projects\WebFinal20170524\Website\Website\bin\BLL.dll
+C:\Projects\WebFinal20170524\Website\Website\bin\Common.dll
+C:\Projects\WebFinal20170524\Website\Website\bin\DLL.dll
+C:\Projects\WebFinal20170524\Website\Website\bin\Entity.dll
+C:\Projects\WebFinal20170524\Website\Website\bin\BLL.pdb
+C:\Projects\WebFinal20170524\Website\Website\bin\Common.pdb
+C:\Projects\WebFinal20170524\Website\Website\bin\DLL.pdb
+C:\Projects\WebFinal20170524\Website\Website\bin\Entity.pdb
+C:\Projects\WebFinal20170524\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Projects\WebFinal20170524\Website\Website\obj\Debug\Website.dll
+C:\Projects\WebFinal20170524\Website\Website\obj\Debug\Website.pdb
+C:\Projects\WebFinal20170716\Website\Website\bin\Website.dll
+C:\Projects\WebFinal20170716\Website\Website\bin\Website.pdb
+C:\Projects\WebFinal20170716\Website\Website\bin\BLL.dll
+C:\Projects\WebFinal20170716\Website\Website\bin\Common.dll
+C:\Projects\WebFinal20170716\Website\Website\bin\DLL.dll
+C:\Projects\WebFinal20170716\Website\Website\bin\Entity.dll
+C:\Projects\WebFinal20170716\Website\Website\bin\BLL.pdb
+C:\Projects\WebFinal20170716\Website\Website\bin\Common.pdb
+C:\Projects\WebFinal20170716\Website\Website\bin\DLL.pdb
+C:\Projects\WebFinal20170716\Website\Website\bin\Entity.pdb
+C:\Projects\WebFinal20170716\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Projects\WebFinal20170716\Website\Website\obj\Debug\Website.dll
+C:\Projects\WebFinal20170716\Website\Website\obj\Debug\Website.pdb
+C:\Projects\WebFinal20170727\Website\Website\bin\Website.dll
+C:\Projects\WebFinal20170727\Website\Website\bin\Website.pdb
+C:\Projects\WebFinal20170727\Website\Website\bin\BLL.dll
+C:\Projects\WebFinal20170727\Website\Website\bin\Common.dll
+C:\Projects\WebFinal20170727\Website\Website\bin\DLL.dll
+C:\Projects\WebFinal20170727\Website\Website\bin\Entity.dll
+C:\Projects\WebFinal20170727\Website\Website\bin\BLL.pdb
+C:\Projects\WebFinal20170727\Website\Website\bin\Common.pdb
+C:\Projects\WebFinal20170727\Website\Website\bin\DLL.pdb
+C:\Projects\WebFinal20170727\Website\Website\bin\Entity.pdb
+C:\Projects\WebFinal20170727\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Projects\WebFinal20170727\Website\Website\obj\Debug\Website.dll
+C:\Projects\WebFinal20170727\Website\Website\obj\Debug\Website.pdb
+C:\Projects\WebFinal20170731\Website\Website\bin\Website.dll
+C:\Projects\WebFinal20170731\Website\Website\bin\Website.pdb
+C:\Projects\WebFinal20170731\Website\Website\bin\BLL.dll
+C:\Projects\WebFinal20170731\Website\Website\bin\Common.dll
+C:\Projects\WebFinal20170731\Website\Website\bin\DLL.dll
+C:\Projects\WebFinal20170731\Website\Website\bin\Entity.dll
+C:\Projects\WebFinal20170731\Website\Website\bin\BLL.pdb
+C:\Projects\WebFinal20170731\Website\Website\bin\Common.pdb
+C:\Projects\WebFinal20170731\Website\Website\bin\DLL.pdb
+C:\Projects\WebFinal20170731\Website\Website\bin\Entity.pdb
+C:\Projects\WebFinal20170731\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Projects\WebFinal20170731\Website\Website\obj\Debug\Website.dll
+C:\Projects\WebFinal20170731\Website\Website\obj\Debug\Website.pdb
+C:\Projects\WebFinal20170806\Website\Website\bin\Website.dll
+C:\Projects\WebFinal20170806\Website\Website\bin\Website.pdb
+C:\Projects\WebFinal20170806\Website\Website\bin\BLL.dll
+C:\Projects\WebFinal20170806\Website\Website\bin\Common.dll
+C:\Projects\WebFinal20170806\Website\Website\bin\DLL.dll
+C:\Projects\WebFinal20170806\Website\Website\bin\Entity.dll
+C:\Projects\WebFinal20170806\Website\Website\bin\BLL.pdb
+C:\Projects\WebFinal20170806\Website\Website\bin\Common.pdb
+C:\Projects\WebFinal20170806\Website\Website\bin\DLL.pdb
+C:\Projects\WebFinal20170806\Website\Website\bin\Entity.pdb
+C:\Projects\WebFinal20170806\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Projects\WebFinal20170806\Website\Website\obj\Debug\Website.dll
+C:\Projects\WebFinal20170806\Website\Website\obj\Debug\Website.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Website.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Website.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\BLL.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Common.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\DLL.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Entity.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\BLL.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Common.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\DLL.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Entity.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\obj\Debug\Website.dll
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\obj\Debug\Website.pdb
+D:\Lab_BaoChay\ServerTabuchi\WebFinal20170822\Website\Website\bin\Website.dll.config
